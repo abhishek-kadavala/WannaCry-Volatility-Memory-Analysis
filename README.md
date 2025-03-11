@@ -14,4 +14,6 @@ This repository contains a detailed forensic analysis of the WannaCry ransomware
 Tools Used  \
 **Volatility 2.6.1** (for memory forensics)  \
 **Python 2.7** (required for Volatility 2.x)  \
-**grep, strings, awk** (for log and data filtering)
+**grep, strings, awk** (for log and data filtering) \
+
+[Memory Analysis](Memory%20Analysis%20using%20Volatility.md)
